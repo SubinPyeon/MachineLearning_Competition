@@ -1,6 +1,6 @@
 # MachineLearning_Competition
 
-## 1. Cifar100
+## 1. Cifar-100
 https://colab.research.google.com/drive/1r79FonGXx0g8uEE4pNWqIyimmGvA-iqt
 
 ## 2. Stanford Dogs
