@@ -11,10 +11,15 @@ https://colab.research.google.com/drive/1jM6gPMzbO1QdnatyOYrwteqQ2wUN7abQ?usp=sh
 
 ## H/W 사양
 - 모델명 QUANTUM-C9-2000
-- 프로세서	Intel® Core™ i9-12900
+- CPU	Intel® Core™ i9-12900
+- GPU NVIDIA GeForce RTX 3080
 - 메인보드	Z690
-- 메모리	DDR5 64GB
+- RAM	DDR5 64GB
 - 저장장치	1TB M.2(SSD) + 2TB(HDD)
 - 그래픽	RTX 3080 D6X 10GB
 
 ## S/W 사양
+- pytorch : 2.0.1
+- cuda : 11.8
+
+
