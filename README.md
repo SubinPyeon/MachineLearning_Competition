@@ -1,4 +1,4 @@
-# MachineLearning_Competition 5조 10 epoch 수행 결과
+# MachineLearning_Competition (10 epoch) 5조 수행 결과
 
 ## 1. Cifar-100
 https://colab.research.google.com/drive/1hovlw-7wK5zd_ObqeVhM6z755UG2_44r
